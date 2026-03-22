@@ -20,7 +20,7 @@
     "@astrojs/starlight": "^0.37.6",
     "@primer/octicons": "^19.21.2",
     "astro": "^5.17.1",
-    "astro-mermaid": "^1.2.0",
+    "astro-mermaid": "^2.0.1",
     "mermaid": "^11.12.2",
     "sharp": "^0.34.5",
     "starlight-blog": "^0.25.2",
