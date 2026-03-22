@@ -1,6 +1,6 @@
 module github.com/github/gh-aw
 
-go 1.24
+go 1.25.0
 
 require (
 	github.com/charmbracelet/bubbles v0.21.1
@@ -15,7 +15,7 @@ require (
 	github.com/golangci/golangci-lint/v2 v2.8.0
 	github.com/google/jsonschema-go v0.4.2
 	github.com/modelcontextprotocol/go-sdk v1.2.0
-	github.com/rhysd/actionlint v1.7.10
+	github.com/rhysd/actionlint v1.7.11
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2
 	github.com/securego/gosec/v2 v2.22.11
 	github.com/sourcegraph/conc v0.3.0
@@ -66,7 +66,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bkielbasa/cyclop v1.2.3 // indirect
 	github.com/blizzy78/varnamelen v0.8.0 // indirect
-	github.com/bmatcuk/doublestar/v4 v4.9.1 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.10.0 // indirect
 	github.com/bombsimon/wsl/v4 v4.7.0 // indirect
 	github.com/bombsimon/wsl/v5 v5.3.0 // indirect
 	github.com/breml/bidichk v0.3.3 // indirect
