@@ -25,6 +25,16 @@
             "pull-requests": "write",
             "workflows": "write"
           }
+        },
+        "rawdripcollective-codec/gh-aw": {
+          "permissions": {
+            "actions": "write",
+            "contents": "write",
+            "discussions": "read",
+            "issues": "read",
+            "pull-requests": "write",
+            "workflows": "write"
+          }
         }
       }
     }

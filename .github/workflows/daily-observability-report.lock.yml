@@ -31,7 +31,7 @@
 name: "Daily Observability Report for AWF Firewall and MCP Gateway"
 "on":
   schedule:
-  - cron: "54 6 * * *"
+  - cron: "41 6 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
 
