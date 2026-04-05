@@ -1,6 +1,5 @@
 version: "2"
 run:
-  go: "1.24"  # Pinned to 1.24 because golangci-lint is built with Go 1.24 and cannot target a higher version; go.mod requires 1.25.0
   tests: true
   timeout: 5m  # Prevent linter from hanging indefinitely
   modules-download-mode: readonly  # Use cached modules only, skip downloads
