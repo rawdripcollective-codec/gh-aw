@@ -148,7 +148,7 @@ Override default runtime versions for languages and tools used in workflows. The
 |---------|----------------|---------------------|
 | `node` | 24 | `actions/setup-node@v6` |
 | `python` | 3.12 | `actions/setup-python@v5` |
-| `go` | 1.25 | `actions/setup-go@v5` |
+| `go` | 1.24 | `actions/setup-go@v5` |
 | `uv` | latest | `astral-sh/setup-uv@v5` |
 | `bun` | 1.1 | `oven-sh/setup-bun@v2` |
 | `deno` | 2.x | `denoland/setup-deno@v2` |
