@@ -130,7 +130,7 @@ jobs:
     steps:
       - uses: actions/setup-go@v5
         with:
-          go-version: '1.25'
+          go-version: '1.24'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
