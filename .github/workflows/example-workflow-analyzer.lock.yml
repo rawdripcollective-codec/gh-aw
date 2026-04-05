@@ -31,7 +31,7 @@
 name: "Weekly Workflow Analysis"
 "on":
   schedule:
-  - cron: "37 9 * * 1"
+  - cron: "56 8 * * 1"
     # Friendly format: weekly on monday around 09:00 (scattered)
   workflow_dispatch:
 

@@ -33,7 +33,7 @@
 name: "Daily Code Metrics and Trend Tracking Agent"
 "on":
   schedule:
-  - cron: "43 10 * * *"
+  - cron: "12 12 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
 
