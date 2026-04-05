@@ -30,7 +30,7 @@
 name: "Step Name Alignment"
 "on":
   schedule:
-  - cron: "44 23 * * *"
+  - cron: "49 19 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
 
